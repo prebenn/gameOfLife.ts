@@ -1,3 +1,3 @@
 # Game Of Life
 
-TypeScript
+React w ts, trying smthn new
