@@ -1,3 +1,3 @@
 # Game Of Life
 
-React with TypeScript, trying something new
+React with TypeScript, trying "new" lang. pretty cool
